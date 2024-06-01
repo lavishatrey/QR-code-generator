@@ -1,4 +1,5 @@
 QR Code Generator | Code Traversal
+
 Project Overview
 This project is a simple web-based QR Code generator. Users can input text or a URL, select the desired size of the QR code, and generate it. The generated QR code can also be downloaded as a PNG image.
 
